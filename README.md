@@ -76,6 +76,8 @@ irys fund 1000000 \
 *Replace RPC_URL with your selected network RPC* https://sepolia.drpc.org/
 
 *💡 The fund amount is in wei.*
+<img width="1493" height="316" alt="image" src="https://github.com/user-attachments/assets/c383cdf3-15fe-40b2-833e-89ad351e4074" />
+
 
 
 
@@ -108,6 +110,9 @@ irys upload FILE_NAME \
 *Replace FILE_FORMAT (e.g. jpg, png)*
 
 *Replace RPC_URL with your selected network RPC*
+<img width="933" height="280" alt="Screenshot 2025-09-01 131135" src="https://github.com/user-attachments/assets/5d4ab67a-28f2-4c9a-aca2-45462aa3a5f6" />
+
+
 
 
 
